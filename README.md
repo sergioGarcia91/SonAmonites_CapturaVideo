@@ -12,3 +12,7 @@ En el repositorio se encuentran disponibles tres archivos `.pt`, que pueden modi
 - **SonAmonites_v2.pt:** Modelo obtenido del CNN con aumento de datos.
 - **yolov8n.pt:** Modelo original de YOLOv8, que cuenta con muchas más categorías en la detección.
 
+<p align="center">
+  <img src="https://github.com/sergioGarcia91/SonAmonites_CapturaVideo/blob/fcab1a3586548ac179772fd8eb8ad4e7b1a91e1e/navegador_resize.gif" alt="Amonites">
+</p>
+
